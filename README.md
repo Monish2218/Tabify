@@ -1,10 +1,10 @@
 # Tabify
 
-[Tabify]() is a super cool website that can be used as a useful browser extension to enhance browser tabs that greets you with a message according to the time of the day and shows different background on page refresh. With Tabify you can set your main/focus task of the day ansd also create your own todo.
+[Tabify](https://mytabify.netlify.app/) is a super cool website that can be used as a useful browser extension to enhance browser tabs that greets you with a message according to the time of the day and shows different background on page refresh. With Tabify you can set your main/focus task of the day ansd also create your own todo.
 
 
 ## List of features
-[Home Page]()
+[Home Page](https://mytabify.netlify.app/)
 - In the home page, you can start by adding your name and then press the enter key which will route you to the task page. If you refresh the home page you will see a different soothing background image.
 
 Task Page
